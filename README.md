@@ -1,4 +1,3 @@
-# DataEngineering_Study
 
 # 데이터 엔지니어링 & Airflow 학습 기록
 
@@ -15,3 +14,5 @@
 7. [Airflow 기초 프로그래밍](./07_airflow-programming/airflow_programming.md)
 8. [Airflow 심화 프로그래밍](./08_airflow-advanced/airflow_advanced.md)
 9. [마무리와 다음 스텝](./09_next-steps/next_steps.md)
+
+from. DataEngineering_Study
