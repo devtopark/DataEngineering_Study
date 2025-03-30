@@ -5,7 +5,7 @@
 
 ## 📚 INDEX
 
-1. [데이터 인프라와 엔지니어링 소개](./01_intro/intro.md)
+1. [데이터 인프라와 엔지니어링 소개](./01_데이터 인프라와 엔지니어링/README.md)
 2. [Snowflake 소개와 셋업](./02_snowflake-setup/snowflake.md)
 3. [데이터 파이프라인 실습](./03_pipeline-practice/pipeline_practice.md)
 4. [Airflow 프레임워크 구조](./04_airflow-framework/airflow_framework.md)
